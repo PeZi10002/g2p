@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PeZi10002/g2p/issues"
   },
-  "homepage": "https://PeZi10002.github.io/g2p"
+  "homepage": "https://PeZi10002.github.io/g2p",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
 }
