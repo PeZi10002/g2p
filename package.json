@@ -1,0 +1,19 @@
+{
+  "name": "g2p",
+  "version": "1.0.0",
+  "description": "kleines Schulprojekt von 2019",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeZi10002/g2p.git"
+  },
+  "author": "streleweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeZi10002/g2p/issues"
+  },
+  "homepage": "https://PeZi10002.github.io/g2p"
+}
